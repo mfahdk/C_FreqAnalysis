@@ -1,4 +1,4 @@
-**Title**: Advanced Frequency Analysis and Decryption Tool for Substitution and Caesar Ciphers  
+#Title#: Advanced Frequency Analysis and Decryption Tool for Substitution and Caesar Ciphers  
 
 **Description**:  
 This C program performs detailed frequency analysis (single letter, bigram, trigram) on ciphered text and supports decryption of hybrid substitution-Caesar ciphers. Features include file reading, frequency mapping, and tokenized Caesar shift analysis for deciphering. Ideal for cryptography learners and enthusiasts.
